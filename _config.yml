@@ -14,7 +14,7 @@ style: styles-2
 name: Alireza Amiri
 tagline: Research Assistant
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summary'
+summary: 'In Construction'
 
 #sidebar links
 email: alirezaamiri.ara@gmail.com
@@ -22,7 +22,7 @@ phone: 049 173 2860230
 website: alirezaamiri.github.io #do not add http://
 linkedin: alireza-amiri
 github: alirezaamiri
-twitter: ''
+twitter: 'alirezaamiriara'
 #Update all the sections by editing the files inside _data folder.
 
 # Tracker
