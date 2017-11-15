@@ -1,6 +1,6 @@
 # Site Settings
 title: Alireza Amiri
-url: 'http://alirezaamiri.github.io
+url: 'http://alirezaamiri.github.io'
 baseurl: '' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
