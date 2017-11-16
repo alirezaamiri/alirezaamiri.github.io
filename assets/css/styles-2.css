@@ -17,11 +17,6 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-@media (max-width: 767px) {
-    body{ 
-        padding: 0;
-    }
-}
 h1,
 h2,
 h3,
@@ -31,7 +26,7 @@ h6 {
   font-weight: 700;
 }
 a {
-  color: #35776d;
+  color: #1b557a;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -39,7 +34,7 @@ a {
 }
 a:hover {
   text-decoration: underline;
-  color: #1d423c;
+  color: #0d293c;
 }
 a:focus {
   text-decoration: none;
@@ -48,7 +43,7 @@ p {
   line-height: 1.5;
 }
 .wrapper {
-  background: #4CAC9D;
+  background: #2980b9;
   max-width: 960px;
   margin: 0 auto;
   position: relative;
@@ -85,6 +80,12 @@ p {
   font-size: 16px;
   font-weight: 400;
   margin-top: 0;
+  margin-bottom: 0;
+}
+.sidebar-wrapper .resume {
+  font-size: 20px;
+  font-weight: 400;
+  margin-top: 30px;
   margin-bottom: 0;
 }
 .sidebar-wrapper .profile {
@@ -131,6 +132,10 @@ p {
   margin-bottom: 0px;
   margin-top: 0;
 }
+.sidebar-wrapper .education-container .place {
+  color: rgba(255, 255, 255, 0.6);
+  font-weight: 500;
+}
 .sidebar-wrapper .education-container .time {
   color: rgba(255, 255, 255, 0.6);
   font-weight: 500;
@@ -166,7 +171,7 @@ p {
   text-transform: uppercase;
   font-size: 20px;
   font-weight: 500;
-  color: #2980b9;
+  color: #1b557a;
   position: relative;
   margin-top: 0;
   margin-bottom: 20px;
@@ -185,7 +190,7 @@ p {
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  background: #2980b9;
+  background: #1b557a;
   text-align: center;
   padding-top: 8px;
   font-size: 16px;
@@ -200,7 +205,6 @@ p {
 }
 .main-wrapper .upper-row {
   position: relative;
-  overflow: hidden;
   margin-bottom: 2px;
 }
 .main-wrapper .job-title {
@@ -210,11 +214,24 @@ p {
   margin-bottom: 0;
   font-weight: 500;
 }
-.main-wrapper .time {
+.main-wrapper .time-place {
   position: absolute;
   right: 0;
   top: 0;
   color: #97AAC3;
+}
+.main-wrapper .time-place .time {
+  display: inline-block;
+  text-align: right;
+  width: 100%;
+}
+.main-wrapper .time-place .place {
+  display: inline-block;
+  text-align: right;
+  width: 100%;
+}
+.main-wrapper .details {
+  text-align: justify;
 }
 .main-wrapper .company {
   margin-bottom: 10px;
@@ -247,7 +264,7 @@ p {
 }
 .skillset .level-bar-inner {
   height: 12px;
-  background: #7ec6bb;
+  background: #55a5d9;
 }
 .footer {
   padding: 30px;
@@ -298,15 +315,3 @@ p {
 }
 /* Large devices (large desktops, 1200px and up) */
 /* Ex-Large devices (large desktops, 1200px and up) */
-
-/* 
-used for profile image
-*/
-.profile-img {
-  max-width: 100px;
-  margin-bottom: 15px;
-  border: 0px solid #fff;
-  border-radius: 100%;
-  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
-}
-

@@ -14,7 +14,9 @@ style: styles-2
 name: Alireza Amiri
 tagline: Research Assistant
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'In Construction'
+summary: "I have been always passionate about programming and software development. I've started my career as a web developer with the focus in PHP-based CMS and Frameworks. My biggest project in that era was in Pasargad Fartak Arian Co. There, an E-shop was implemented in Magento CE, a complex PHP e-commerce framework. I have learned a lot about design patterns and various architectures from Magento. <br>
+Since two years ago, I have found another passion of mine, Python. I enjoyed using it in various student projects so far. From last year, I am using it as my professional choice as well. Working in GWDG, I am assigned to automate the deployment and execution of workloads in the cloud testbed, which is implemented by OpenStack. Here, I have gained experience in Python programming, shell programming, and cloud computing. Thanks to my current job, I have become familiar with DevOps tasks as well. I find CD and CI as amazing concepts which any software development team could benefit. Therefore, I have also tried to learn more about such topics. For instance, I have learned the fundamentals of Amazon Web Services, one the pioneers in offering cloud computing services.<br>
+Besides, one of my personal interests is Game development which I try to grow in my leisure time and continue doing so as a hobby for now."
 
 #sidebar links
 email: alirezaamiri.ara@gmail.com

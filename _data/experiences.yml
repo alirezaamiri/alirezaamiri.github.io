@@ -1,28 +1,38 @@
 - experience:
-  role: Lead Developer
-  time: 2015 - Present
-  company: Startup Hubs, San Francisco
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-  <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
+  role: Research Assistant
+  time: Apr. 2017 - Present
+  company: GWDG
+  place: Göttingen, Germany
+  details: "For almost a year, I am working at GWDG (Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen) as a research assistant in
+           the <i>Mikelangelo</i> project. I am assigned to automate the deployment and execution of workloads in the Mikelangelo Testbed in GWDG. In the testbed 
+           <i>OpenStack</i> was used as its cloud platform. I used <i>Python</i> and <i>Bash scripts</i> for the most part of the automation. 
+           In this task, I also leveraged <i>Heat Templates</i> from OpenStack to automate the deployment of resources."
 - experience:
-  role: Senior Software Engineer
-  time: 2014 - 2015
-  company: Google, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Drupal Developer
+  time: Jan. 2017 - Mar. 2017
+  company: University of Göttingen
+  place: Göttingen, Germany
+  details: "I was mostly concerned with maintaining the website of the '
+           Software Engineering for Distributed Systems' group in the institute of computer science. I also edited and optimized 
+           the frontend theme of the website with the help of <i>Bootstrap</i>"
 - experience:
-  role: UI Developer
-  time: 2012 - 2014
-  company: Amazon, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Magento Developer
+  time: Nov. 2013 - Apr. 2015
+  company: Pasargad Fartak Arian Co.
+  place: Tehran, Iran
+  details: "One of the main task in PFA was upgrading the <i>Magento core</i> from 1.6 to
+           1.8.1 which needs great amount of work on adapting modules to the newer core.
+           I also developed a few Magento(CE) Extenstions which requires a good understanding
+           of MVC, OOP, and event-driven architecture. I used some tools too, such as <i>Google Pagespeed</i> and <i>APC cache</i>, to optimize
+           the website and reduce its load time. I developed a ticket-selling website with <i>Yii framework</i> as well.<br>
+           In Fartak, I worked in a team including four more people. We used Git(Gitlab) as our version control system. I mainly used <i>PhpStorm</i>
+           and <i>Ubuntu</i> as my daily driver."
+- experience:
+  role: Web Developer
+  time: Apr. 2012 - Oct. 2013
+  company: Sindad Co.
+  place: Tehran, Iran
+  details: "I designed websites using PHP-based CMS like Wordpress and Drupal
+           and Drupal. I worked on both frontend and backend of those websites.
+           I also developed a REST-based API for an android application using Yii
+           Framework. I built an administration website for that application using Yii as well."
